@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FireCreeperCoding
+- 👋 Hi, I’m DG
 - 👀 I’m interested in Looking at Games
-- 🌱 I’m currently learning GDevelop
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me I don't want to be reached.
 
